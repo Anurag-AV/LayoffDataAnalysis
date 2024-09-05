@@ -1,0 +1,121 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.container, .form-container {
+    width: 80%;
+    max-width: 600px; /* Set a max-width for better control */
+    margin: 20px auto; /* Center the container with automatic margins */
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px; /* Consistent border-radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+form, .prediction-form {
+    padding: 40px;
+    margin-bottom: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%; /* Full width of the container */
+    max-width: 960px; /* Consistent max-width */
+}
+
+input[type="text"] {
+    width: calc(100% - 24px);
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: block;
+}
+
+button, .predict-button {
+    background-color: #5D647B;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button:hover, .predict-button:hover {
+    background-color: #434A5E;
+}
+
+.dataframe-display {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Responsive layout for smaller screens */
+@media (max-width: 768px) {
+    h2 {
+        font-size: 24px;
+    }
+
+    form, .prediction-form {
+        width: 95%; /* Slightly reduced to maintain some edge space */
+        padding: 20px; /* Reduced padding on smaller screens */
+    }
+
+    input[type="text"], button, .predict-button {
+        padding: 10px; /* Adjust padding for smaller screens */
+    }
+}
+
+.plot-container {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Model Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Select a Model and Enter Input Data for Prediction</h2>
+        <div class="form-container">
+            <form method="post" action="{{ url_for('predict_linear_regression') }}" class="prediction-form">
+                <input type="text" name="Year" required placeholder="Enter Year" />
+                <input type="text" name="Month" required placeholder="Enter Month" />
+                <input type="text" name="FundsRaised" required placeholder="Enter Funds Raised" />
+                <input type="text" name="Stage" required placeholder="Enter Stage" />
+                <input type="text" name="Country" required placeholder="Enter Country" />
+                <button type="submit" class="predict-button">Predict with Linear Regression</button>
+            </form>
+            <form method="post" action="{{ url_for('predict_gradient_boosting') }}" class="prediction-form">
+                <input type="text" name="Month" required placeholder="Enter Month" />
+                <input type="text" name="Industry" required placeholder="Enter Industry" />
+                <input type="text" name="Stage" required placeholder="Enter Stage" />
+                <input type="text" name="Country" required placeholder="Enter Country" />
+                <button type="submit" class="predict-button">Predict with Gradient Boosting</button>
+            </form>
+        </div>
+        <h1>DataFrame Display</h1>
+        <div class="dataframe-display">
+            {{ table | safe }}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ model_name }} Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>{{ model_name }} Prediction Result</h1>
+        <p>The predicted value is: <strong>{{ prediction }} &percnt; </strong></p>
+
+        <!-- Include the first plot image -->
+        {% if plot_url1 %}
+        <div class="plot-container">
+            <h2>Categorical Plot</h2>
+            <img src="data:image/png;base64,{{ plot_url1 }}" alt="Categorical Plot Image">
+        </div>
+        {% endif %}
+
+        <!-- Include the second plot image -->
+        {% if plot_url2 %}
+        <div class="plot-container">
+            <h2>Line Plot</h2>
+            <img src="data:image/png;base64,{{ plot_url2 }}" alt="Line Plot Image">
+        </div>
+        {% endif %}
+
+        <!-- Include the third plot image (WordCloud) -->
+{% if plot_url3 %}
+<div class="plot-container">
+    <h2>WordCloud Plot</h2>
+    <img src="data:image/png;base64,{{ plot_url3 }}" alt="WordCloud Plot Image">
+</div>
+{% endif %}
+
+<!-- Include the fourth plot image (Bar Chart) -->
+{% if plot_url4 %}
+<div class="plot-container">
+    <h2>Bar Chart Plot</h2>
+    <img src="data:image/png;base64,{{ plot_url4 }}" alt="Bar Chart Plot Image">
+</div>
+{% endif %}
+
+        <a href="{{ url_for('index') }}">Try another prediction</a>
+    </div>
+</body>
+</html>

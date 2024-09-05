@@ -1,0 +1,349 @@
+index,Company,City,Industry,Percentage,Date,Funds_Raised,Stage,Country,Laid_Off_Count,strength,Reason,Year,Month,Quarters,category_label_encoded
+1,Electronic Arts,SF Bay Area,Consumer,0.05,2024-02-28,2.0,Post-IPO,United States,670.0,13400.0,layoff_permanent,2024,February,2024Q1,31
+24,Voi,Stockholm,Transportation,0.12,2024-02-16,515.0,Series D,United States,120.0,1000.0,closure_permanent,2024,February,2024Q1,38
+25,Toast,Boston,Food,0.1,2024-02-15,962.0,Post-IPO,United States,550.0,5500.0,down_sizing,2024,February,2024Q1,4
+26,Sonder,SF Bay Area,Travel,0.17,2024-02-15,839.0,Post-IPO,United States,106.0,624.0,layoff_temporary,2024,February,2024Q1,31
+31,Cisco,SF Bay Area,Infrastructure,0.05,2024-02-14,2.0,Post-IPO,United States,4250.0,85000.0,layoff_permanent,2024,February,2024Q1,31
+34,Instacart,SF Bay Area,Food,0.07,2024-02-13,2900.0,Post-IPO,United States,250.0,3571.0,layoff_permanent,2024,February,2024Q1,31
+55,Snap,Los Angeles,Consumer,0.1,2024-02-05,4900.0,Post-IPO,United States,500.0,5000.0,layoff_permanent,2024,February,2024Q1,19
+64,Cue Health,San Diego,Healthcare,0.3,2024-02-02,899.0,Post-IPO,United States,245.0,817.0,layoff_permanent,2024,February,2024Q1,33
+69,Okta,SF Bay Area,Security,0.07,2024-02-01,1200.0,Post-IPO,United States,400.0,5714.0,layoff_permanent,2024,February,2024Q1,31
+81,PayPal,SF Bay Area,Finance,0.09,2024-01-30,216.0,Post-IPO,United States,2500.0,27778.0,layoff_permanent,2024,January,2024Q1,31
+82,Block,SF Bay Area,Finance,0.1,2024-01-30,150.0,Post-IPO,United States,1000.0,10000.0,down_sizing,2024,January,2024Q1,31
+84,Aurora Solar,SF Bay Area,Energy,0.2,2024-01-30,523.0,Series D,United States,111.0,555.0,layoff_permanent,2024,January,2024Q1,31
+93,Salesforce,SF Bay Area,Sales,0.01,2024-01-26,65.0,Post-IPO,United States,700.0,70000.0,layoff_permanent,2024,January,2024Q1,31
+110,eBay,SF Bay Area,Retail,0.09,2024-01-23,1200.0,Post-IPO,United States,1000.0,11111.0,layoff_permanent,2024,January,2024Q1,31
+112,Brex,SF Bay Area,Finance,0.2,2024-01-23,1500.0,Series D,United States,282.0,1410.0,layoff_permanent,2024,January,2024Q1,31
+117,Riot Games,Los Angeles,Consumer,0.11,2024-01-22,21.0,Acquired,United States,530.0,4818.0,layoff_permanent,2024,January,2024Q1,19
+124,Wayfair,Boston,Retail,0.13,2024-01-19,1700.0,Post-IPO,United States,1650.0,12692.0,layoff_permanent,2024,January,2024Q1,4
+143,Discord,SF Bay Area,Consumer,0.17,2024-01-11,995.0,Series H,United States,170.0,1000.0,layoff_permanent,2024,January,2024Q1,31
+153,Citrix,Miami,Infrastructure,0.12,2024-01-10,20.0,Acquired,United States,1000.0,8333.0,layoff_permanent,2024,January,2024Q1,20
+162,Twitch,SF Bay Area,Consumer,0.35,2024-01-09,35.0,Acquired,United States,500.0,1429.0,layoff_permanent,2024,January,2024Q1,31
+164,Nevro,SF Bay Area,Healthcare,0.05,2024-01-09,556.0,Post-IPO,United States,63.0,1260.0,layoff_permanent,2024,January,2024Q1,31
+167,Rent the Runway,New York City,Retail,0.1,2024-01-09,526.0,Post-IPO,United States,37.0,370.0,closure_temporary,2024,January,2024Q1,25
+169,Humane,SF Bay Area,Hardware,0.04,2024-01-09,230.0,Series C,United States,10.0,250.0,closure_permanent,2024,January,2024Q1,31
+173,Unity,SF Bay Area,Other,0.25,2024-01-08,1300.0,Post-IPO,United States,1800.0,7200.0,layoff_permanent,2024,January,2024Q1,31
+176,Flexe,Seattle,Logistics,0.38,2024-01-08,263.0,Series D,United States,99.0,261.0,down_sizing,2024,January,2024Q1,36
+185,Cue Health,San Diego,Healthcare,0.13,2024-01-05,899.0,Post-IPO,United States,94.0,723.0,layoff_permanent,2024,January,2024Q1,33
+204,Enphase Energy,SF Bay Area,Energy,0.1,2023-12-18,116.0,Post-IPO,United States,350.0,3500.0,layoff_permanent,2023,December,2023Q4,31
+220,Invitae,SF Bay Area,Healthcare,0.15,2023-12-13,2500.0,Post-IPO,United States,235.0,1567.0,layoff_permanent,2023,December,2023Q4,31
+228,Chipper Cash,SF Bay Area,Finance,0.33,2023-12-11,302.0,Series C,United States,15.0,45.0,layoff_permanent,2023,December,2023Q4,31
+247,Spotify,Stockholm,Media,0.17,2023-12-04,2100.0,Post-IPO,Sweden,1500.0,8824.0,layoff_permanent,2023,December,2023Q4,38
+253,Loco,Mumbai,Consumer,0.36,2023-11-30,52.0,Acquired,India,40.0,111.0,layoff_temporary,2023,November,2023Q4,22
+259,Unity,SF Bay Area,Other,0.04,2023-11-28,1300.0,Post-IPO,United States,265.0,6625.0,layoff_permanent,2023,November,2023Q4,31
+296,TripAdvisor,Boston,Travel,0.04,2023-11-12,3.0,Post-IPO,United States,125.0,3125.0,layoff_permanent,2023,November,2023Q4,4
+316,Viasat,San Diego,Other,0.1,2023-11-02,366.0,Post-IPO,United States,800.0,8000.0,layoff_permanent,2023,November,2023Q4,33
+322,Splunk,SF Bay Area,Data,0.07,2023-11-01,2400.0,Post-IPO,United States,500.0,7143.0,layoff_permanent,2023,November,2023Q4,31
+323,Faire,SF Bay Area,Retail,0.2,2023-11-01,1700.0,Series G,United States,250.0,1250.0,layoff_permanent,2023,November,2023Q4,31
+358,LinkedIn,SF Bay Area,Recruiting,0.03,2023-10-16,154.0,Acquired,United States,660.0,22000.0,layoff_permanent,2023,October,2023Q4,31
+375,Carbon Health,SF Bay Area,Healthcare,0.05,2023-10-09,522.0,Series D,United States,114.0,2280.0,layoff_permanent,2023,October,2023Q4,31
+380,Juniper Networks,SF Bay Area,Hardware,0.04,2023-10-06,39.0,Post-IPO,United States,440.0,11000.0,layoff_permanent,2023,October,2023Q4,31
+393,Hopper,Montreal,Travel,0.3,2023-10-04,730.0,Unknown,Canada,250.0,833.0,layoff_temporary,2023,October,2023Q4,21
+401,Synapse,SF Bay Area,Finance,0.4,2023-10-02,50.0,Series B,United States,86.0,215.0,layoff_permanent,2023,October,2023Q4,31
+409,Epic Games,Raleigh,Consumer,0.16,2023-09-28,6400.0,Unknown,United States,870.0,5438.0,down_sizing,2023,September,2023Q3,30
+416,Flexe,Seattle,Logistics,0.33,2023-09-26,263.0,Series D,United States,131.0,397.0,down_sizing,2023,September,2023Q3,36
+436,Airtable,SF Bay Area,Product,0.27,2023-09-14,1400.0,Series F,United States,237.0,878.0,layoff_permanent,2023,September,2023Q3,31
+442,Evolve,Denver,Travel,0.2,2023-09-12,224.0,Series F,United States,175.0,875.0,layoff_temporary,2023,September,2023Q3,11
+458,Roku,SF Bay Area,Media,0.1,2023-09-06,208.0,Post-IPO,United States,360.0,3600.0,layoff_permanent,2023,September,2023Q3,31
+482,Huma,London,Healthcare,0.1,2023-08-30,217.0,Unknown,United Kingdom,45.0,450.0,closure_permanent,2023,August,2023Q3,18
+495,Atlas,Chicago,HR,0.3,2023-08-23,220.0,Series B,United States,150.0,500.0,layoff_permanent,2023,August,2023Q3,8
+497,BlackLine,Los Angeles,Finance,0.05,2023-08-23,220.0,Post-IPO,United States,95.0,1900.0,layoff_permanent,2023,August,2023Q3,19
+515,AppFolio,Santa Barbara,Real Estate,0.09,2023-08-17,30.0,Post-IPO,United States,149.0,1656.0,layoff_permanent,2023,August,2023Q3,34
+531,Blend,SF Bay Area,Finance,0.19,2023-08-09,665.0,Post-IPO,United States,150.0,789.0,layoff_permanent,2023,August,2023Q3,31
+553,Discord,SF Bay Area,Consumer,0.04,2023-08-03,995.0,Series H,United States,37.0,925.0,layoff_permanent,2023,August,2023Q3,31
+573,Planet,SF Bay Area,Aerospace,0.1,2023-08-01,574.0,Post-IPO,United States,117.0,1170.0,layoff_permanent,2023,August,2023Q3,31
+589,Wish,SF Bay Area,Retail,0.34,2023-07-27,1600.0,Post-IPO,United States,255.0,750.0,closure_permanent,2023,July,2023Q3,31
+590,Point,SF Bay Area,Real Estate,0.28,2023-07-27,149.0,Series C,United States,61.0,218.0,layoff_permanent,2023,July,2023Q3,31
+595,Copia,Nairobi,Retail,0.25,2023-07-26,103.0,Series C,Kenya,350.0,1400.0,closure_permanent,2023,July,2023Q3,23
+596,Figure,SF Bay Area,Crypto,0.2,2023-07-26,1500.0,Unknown,United States,90.0,450.0,down_sizing,2023,July,2023Q3,31
+668,Perfect Day,SF Bay Area,Food,0.15,2023-07-06,711.0,Series D,United States,134.0,893.0,layoff_permanent,2023,July,2023Q3,31
+678,Zip,Sydney,Finance,0.2,2023-07-02,896.0,Post-IPO,Australia,300.0,1500.0,layoff_temporary,2023,July,2023Q3,39
+684,Headspace,Los Angeles,Healthcare,0.15,2023-06-29,216.0,Unknown,United States,181.0,1207.0,layoff_permanent,2023,June,2023Q2,19
+697,Plex,SF Bay Area,Media,0.2,2023-06-28,81.0,Unknown,United States,37.0,185.0,closure_permanent,2023,June,2023Q2,31
+701,New Relic,SF Bay Area,Infrastructure,0.1,2023-06-27,214.0,Post-IPO,United States,255.0,2550.0,layoff_permanent,2023,June,2023Q2,31
+710,Robinhood,SF Bay Area,Finance,0.07,2023-06-26,5600.0,Post-IPO,United States,150.0,2143.0,layoff_permanent,2023,June,2023Q2,31
+711,Convoy,Seattle,Logistics,0.05,2023-06-26,1100.0,Series E,United States,30.0,600.0,closure_permanent,2023,June,2023Q2,36
+718,Ritual,Toronto,Food,0.4,2023-06-21,134.0,Series C,Canada,38.0,95.0,closure_permanent,2023,June,2023Q2,41
+742,TrueCar,Los Angeles,Transportation,0.24,2023-06-14,340.0,Post-IPO,United States,102.0,425.0,layoff_permanent,2023,June,2023Q2,19
+752,Chegg,SF Bay Area,Education,0.04,2023-06-12,227.0,Post-IPO,United States,80.0,2000.0,closure_permanent,2023,June,2023Q2,31
+760,Cityblock Health,New York City,Healthcare,0.12,2023-06-08,891.0,Series D,United States,155.0,1292.0,down_sizing,2023,June,2023Q2,25
+780,Spotify,Stockholm,Media,0.02,2023-06-05,2100.0,Post-IPO,Sweden,200.0,10000.0,layoff_permanent,2023,June,2023Q2,38
+796,Zendesk,SF Bay Area,Support,0.08,2023-05-31,85.0,Acquired,United States,320.0,4000.0,layoff_permanent,2023,May,2023Q2,31
+797,ZipRecruiter,Los Angeles,Recruiting,0.2,2023-05-31,769.0,Post-IPO,United States,270.0,1350.0,layoff_temporary,2023,May,2023Q2,19
+801,Away,New York City,Retail,0.08,2023-05-31,181.0,Series D,United States,22.0,275.0,down_sizing,2023,May,2023Q2,25
+807,Evolve,Denver,Travel,0.14,2023-05-29,224.0,Series F,United States,164.0,1171.0,layoff_temporary,2023,May,2023Q2,11
+815,Guild,Denver,Education,0.12,2023-05-24,643.0,Series F,United States,172.0,1433.0,closure_permanent,2023,May,2023Q2,11
+818,Western Digital,Kfar Saba,Hardware,0.07,2023-05-24,900.0,Post-IPO,Israel,60.0,857.0,layoff_permanent,2023,May,2023Q2,17
+841,Lemonade,New York City,Finance,0.03,2023-05-16,481.0,Post-IPO,United States,45.0,1500.0,layoff_temporary,2023,May,2023Q2,25
+845,Nuro,SF Bay Area,Transportation,0.3,2023-05-12,2100.0,Series D,United States,340.0,1133.0,layoff_permanent,2023,May,2023Q2,31
+864,LinkedIn,SF Bay Area,Recruiting,0.04,2023-05-08,154.0,Acquired,United States,716.0,17900.0,layoff_permanent,2023,May,2023Q2,31
+869,Twist Bioscience,SF Bay Area,Healthcare,0.25,2023-05-05,503.0,Post-IPO,United States,270.0,1080.0,layoff_permanent,2023,May,2023Q2,31
+874,Sabre,Dallas,Travel,0.15,2023-05-04,1700.0,Post-IPO,United States,1100.0,7333.0,down_sizing,2023,May,2023Q2,10
+876,Autograph,Los Angeles,Crypto,0.33,2023-05-04,205.0,Series B,United States,30.0,91.0,layoff_permanent,2023,May,2023Q2,19
+878,Karma,Tel Aviv,Retail,0.28,2023-05-04,34.0,Series A,Israel,20.0,71.0,layoff_temporary,2023,May,2023Q2,40
+880,Unity,SF Bay Area,Other,0.08,2023-05-03,1300.0,Post-IPO,United States,600.0,7500.0,layoff_permanent,2023,May,2023Q2,31
+896,Cue Health,San Diego,Healthcare,0.3,2023-04-28,899.0,Post-IPO,United States,326.0,1087.0,layoff_permanent,2023,April,2023Q2,33
+901,Dropbox,SF Bay Area,Other,0.16,2023-04-27,1700.0,Post-IPO,United States,500.0,3125.0,layoff_permanent,2023,April,2023Q2,31
+902,Alteryx,Los Angeles,Data,0.11,2023-04-27,613.0,Post-IPO,United States,320.0,2909.0,layoff_permanent,2023,April,2023Q2,19
+904,Greenhouse,New York City,Recruiting,0.12,2023-04-27,110.0,Private Equity,United States,100.0,833.0,closure_permanent,2023,April,2023Q2,25
+925,BuzzFeed,New York City,Media,0.15,2023-04-20,696.0,Post-IPO,United States,180.0,1200.0,layoff_permanent,2023,April,2023Q2,25
+926,Koo,Bengaluru,Consumer,0.3,2023-04-20,50.0,Series B,India,78.0,260.0,down_sizing,2023,April,2023Q2,2
+934,Opendoor,SF Bay Area,Real Estate,0.22,2023-04-18,1900.0,Post-IPO,United States,560.0,2545.0,layoff_permanent,2023,April,2023Q2,31
+958,Viasat,San Diego,Other,0.04,2023-04-12,366.0,Post-IPO,United States,300.0,7500.0,layoff_permanent,2023,April,2023Q2,33
+962,Redfin,Seattle,Real Estate,0.04,2023-04-11,320.0,Post-IPO,United States,201.0,5025.0,layoff_temporary,2023,April,2023Q2,36
+969,Nori,Seattle,Energy,0.37,2023-04-10,13.0,Unknown,United States,10.0,27.0,down_sizing,2023,April,2023Q2,36
+970,Simpl,Bengaluru,Finance,0.25,2023-04-09,71.0,Series B,India,150.0,600.0,layoff_permanent,2023,April,2023Q2,2
+978,Amplitude,SF Bay Area,Data,0.13,2023-04-05,311.0,Post-IPO,United States,99.0,762.0,layoff_permanent,2023,April,2023Q2,31
+983,Boost,New York City,Finance,0.2,2023-04-04,37.0,Series B,United States,15.0,75.0,layoff_permanent,2023,April,2023Q2,25
+994,Roku,SF Bay Area,Media,0.06,2023-03-30,208.0,Post-IPO,United States,200.0,3333.0,layoff_permanent,2023,March,2023Q1,31
+997,Loop,Austin,Finance,0.25,2023-03-30,24.0,Series A,United States,19.0,76.0,down_sizing,2023,March,2023Q1,1
+1007,Electronic Arts,SF Bay Area,Consumer,0.06,2023-03-29,2.0,Post-IPO,United States,780.0,13000.0,layoff_permanent,2023,March,2023Q1,31
+1028,Glassdoor,SF Bay Area,HR,0.15,2023-03-22,204.0,Acquired,United States,140.0,933.0,layoff_permanent,2023,March,2023Q1,31
+1053,Leafly,Seattle,Retail,0.21,2023-03-16,71.0,Post-IPO,United States,40.0,190.0,down_sizing,2023,March,2023Q1,36
+1069,Xero,Wellington,Finance,0.15,2023-03-09,681.0,Post-IPO,New Zealand,800.0,5333.0,layoff_temporary,2023,March,2023Q1,45
+1080,Zwift,Los Angeles,Fitness,0.15,2023-03-07,619.0,Series C,United States,80.0,533.0,layoff_permanent,2023,March,2023Q1,19
+1085,Atlassian,Sydney,Other,0.05,2023-03-06,210.0,Post-IPO,Australia,500.0,10000.0,layoff_permanent,2023,March,2023Q1,39
+1094,Embark Trucks,SF Bay Area,Transportation,0.7,2023-03-03,317.0,Post-IPO,United States,230.0,329.0,layoff_permanent,2023,March,2023Q1,31
+1113,Waymo,SF Bay Area,Transportation,0.08,2023-03-01,5500.0,Subsidiary,United States,209.0,2612.0,layoff_permanent,2023,March,2023Q1,31
+1116,Sonder,SF Bay Area,Travel,0.14,2023-03-01,839.0,Post-IPO,United States,100.0,714.0,layoff_temporary,2023,March,2023Q1,31
+1124,Cerebral,SF Bay Area,Healthcare,0.15,2023-02-27,462.0,Series C,United States,285.0,1900.0,layoff_permanent,2023,February,2023Q1,31
+1125,Amount,Chicago,Finance,0.25,2023-02-27,283.0,Unknown,United States,130.0,520.0,down_sizing,2023,February,2023Q1,8
+1127,Outreach,Seattle,Sales,0.07,2023-02-27,489.0,Series G,United States,70.0,1000.0,layoff_permanent,2023,February,2023Q1,36
+1165,Kinde,Sydney,Other,0.28,2023-02-20,10.0,Seed,Australia,8.0,29.0,closure_permanent,2023,February,2023Q1,39
+1171,Chipper Cash,SF Bay Area,Finance,0.33,2023-02-17,302.0,Series C,United States,100.0,303.0,layoff_permanent,2023,February,2023Q1,31
+1176,The RealReal,SF Bay Area,Retail,0.07,2023-02-16,356.0,Post-IPO,United States,230.0,3286.0,closure_permanent,2023,February,2023Q1,31
+1179,Wix,Tel Aviv,Marketing,0.06,2023-02-15,58.0,Post-IPO,Israel,370.0,6167.0,layoff_permanent,2023,February,2023Q1,40
+1199,Twilio,SF Bay Area,Other,0.17,2023-02-13,614.0,Post-IPO,United States,1500.0,8824.0,down_sizing,2023,February,2023Q1,31
+1200,Electric,New York City,Other,0.25,2023-02-13,212.0,Series D,United States,141.0,564.0,closure_permanent,2023,February,2023Q1,25
+1218,Yahoo,SF Bay Area,Consumer,0.2,2023-02-09,6.0,Acquired,United States,1600.0,8000.0,layoff_permanent,2023,February,2023Q1,31
+1230,GoDaddy,Phoenix,Marketing,0.08,2023-02-08,800.0,Post-IPO,United States,530.0,6625.0,changed_business,2023,February,2023Q1,27
+1231,Affirm,SF Bay Area,Finance,0.19,2023-02-08,1500.0,Post-IPO,United States,500.0,2632.0,down_sizing,2023,February,2023Q1,31
+1232,Gusto,SF Bay Area,HR,0.05,2023-02-08,746.0,Series E,United States,126.0,2520.0,closure_permanent,2023,February,2023Q1,31
+1241,eBay,SF Bay Area,Retail,0.04,2023-02-07,1200.0,Post-IPO,United States,500.0,12500.0,layoff_permanent,2023,February,2023Q1,31
+1248,Loggi,Sao Paulo,Logistics,0.07,2023-02-06,507.0,Series F,Brazil,300.0,4286.0,closure_permanent,2023,February,2023Q1,35
+1265,Okta,SF Bay Area,Security,0.05,2023-02-02,1200.0,Post-IPO,United States,300.0,6000.0,layoff_permanent,2023,February,2023Q1,31
+1280,Splunk,SF Bay Area,Data,0.04,2023-02-01,2400.0,Post-IPO,United States,325.0,8125.0,layoff_permanent,2023,February,2023Q1,31
+1282,DraftKings,Boston,Consumer,0.04,2023-02-01,719.0,Post-IPO,United States,140.0,3500.0,layoff_temporary,2023,February,2023Q1,4
+1286,Wheel,Austin,Healthcare,0.28,2023-02-01,215.0,Series C,United States,56.0,200.0,down_sizing,2023,February,2023Q1,1
+1299,PayPal,SF Bay Area,Finance,0.07,2023-01-31,216.0,Post-IPO,United States,2000.0,28571.0,layoff_permanent,2023,January,2023Q1,31
+1301,Workday,SF Bay Area,HR,0.03,2023-01-31,230.0,Post-IPO,United States,525.0,17500.0,layoff_permanent,2023,January,2023Q1,31
+1303,Upstart,SF Bay Area,Finance,0.2,2023-01-31,144.0,Post-IPO,United States,365.0,1825.0,layoff_permanent,2023,January,2023Q1,31
+1305,Wish,SF Bay Area,Retail,0.17,2023-01-31,1600.0,Post-IPO,United States,150.0,882.0,closure_permanent,2023,January,2023Q1,31
+1343,SAP,Walldorf,Other,0.03,2023-01-26,1300.0,Post-IPO,Germany,3000.0,100000.0,layoff_permanent,2023,January,2023Q1,43
+1344,Confluent,SF Bay Area,Data,0.08,2023-01-26,455.0,Post-IPO,United States,221.0,2762.0,closure_permanent,2023,January,2023Q1,31
+1365,Bolt,SF Bay Area,Finance,0.1,2023-01-24,1300.0,Series E,United States,50.0,500.0,closure_permanent,2023,January,2023Q1,31
+1375,Spotify,Stockholm,Media,0.06,2023-01-23,2100.0,Post-IPO,Sweden,600.0,10000.0,layoff_permanent,2023,January,2023Q1,38
+1387,Wayfair,Boston,Retail,0.1,2023-01-20,1700.0,Post-IPO,United States,1750.0,17500.0,layoff_permanent,2023,January,2023Q1,4
+1423,8x8,SF Bay Area,Support,0.07,2023-01-18,253.0,Post-IPO,United States,155.0,2214.0,layoff_permanent,2023,January,2023Q1,31
+1432,Addepar,SF Bay Area,Finance,0.03,2023-01-18,491.0,Series F,United States,20.0,667.0,layoff_permanent,2023,January,2023Q1,31
+1444,Unity,SF Bay Area,Other,0.03,2023-01-17,1300.0,Post-IPO,United States,284.0,9467.0,layoff_permanent,2023,January,2023Q1,31
+1484,Pier,Sao Paulo,Finance,0.39,2023-01-12,42.0,Series B,Brazil,111.0,285.0,closure_permanent,2023,January,2023Q1,35
+1496,Flexport,SF Bay Area,Logistics,0.2,2023-01-11,2400.0,Series E,United States,640.0,3200.0,layoff_permanent,2023,January,2023Q1,31
+1498,Verily,SF Bay Area,Healthcare,0.15,2023-01-11,3500.0,Unknown,United States,250.0,1667.0,layoff_permanent,2023,January,2023Q1,31
+1512,Blend,SF Bay Area,Finance,0.28,2023-01-10,665.0,Post-IPO,United States,340.0,1214.0,layoff_permanent,2023,January,2023Q1,31
+1529,Fate Therapeutics,San Diego,Healthcare,0.57,2023-01-09,1200.0,Post-IPO,United States,315.0,553.0,layoff_permanent,2023,January,2023Q1,33
+1587,TuSimple,San Diego,Transportation,0.25,2022-12-21,648.0,Post-IPO,United States,350.0,1400.0,layoff_permanent,2022,December,2022Q4,33
+1597,Tomorrow,Hamburg,Finance,0.25,2022-12-16,29.0,Unknown,Germany,30.0,120.0,closure_permanent,2022,December,2022Q4,15
+1614,Headspace,Los Angeles,Healthcare,0.04,2022-12-14,215.0,Unknown,United States,50.0,1250.0,layoff_permanent,2022,December,2022Q4,19
+1617,Thumbtack,SF Bay Area,Consumer,0.14,2022-12-13,698.0,Series I,United States,160.0,1143.0,layoff_permanent,2022,December,2022Q4,31
+1635,Primer,London,Finance,0.33,2022-12-09,73.0,Series B,United Kingdom,85.0,258.0,closure_permanent,2022,December,2022Q4,18
+1642,Airtable,SF Bay Area,Product,0.2,2022-12-08,1400.0,Series F,United States,254.0,1270.0,layoff_permanent,2022,December,2022Q4,31
+1646,BlackLine,Los Angeles,Finance,0.05,2022-12-08,220.0,Private Equity,United States,95.0,1900.0,layoff_permanent,2022,December,2022Q4,19
+1661,Plaid,SF Bay Area,Finance,0.2,2022-12-07,734.0,Series D,United States,260.0,1300.0,layoff_permanent,2022,December,2022Q4,31
+1664,Relativity,Chicago,Legal,0.1,2022-12-07,125.0,Private Equity,United States,150.0,1500.0,layoff_permanent,2022,December,2022Q4,8
+1665,Voi,Stockholm,Transportation,0.13,2022-12-07,515.0,Series D,United States,130.0,1000.0,closure_permanent,2022,December,2022Q4,38
+1669,Lev,New York City,Real Estate,0.3,2022-12-07,114.0,Series B,United States,30.0,100.0,layoff_temporary,2022,December,2022Q4,25
+1675,Doma,SF Bay Area,Finance,0.4,2022-12-06,679.0,Post-IPO,United States,515.0,1288.0,layoff_permanent,2022,December,2022Q4,31
+1677,BuzzFeed,New York City,Media,0.12,2022-12-06,696.0,Post-IPO,United States,180.0,1500.0,layoff_permanent,2022,December,2022Q4,25
+1680,Chipper Cash,SF Bay Area,Finance,0.125,2022-12-06,302.0,Series C,United States,50.0,400.0,layoff_permanent,2022,December,2022Q4,31
+1701,Polly,Burlington,Finance,0.15,2022-12-02,184.0,Series C,United States,47.0,313.0,layoff_permanent,2022,December,2022Q4,7
+1716,Happy Money,Los Angeles,Finance,0.34,2022-11-30,191.0,Series D,United States,158.0,465.0,layoff_permanent,2022,November,2022Q4,19
+1717,Ula,Jakarta,Retail,0.23,2022-11-30,140.0,Series B,Indonesia,134.0,583.0,closure_permanent,2022,November,2022Q4,16
+1720,Grin,Sacramento,Marketing,0.13,2022-11-30,145.0,Series B,United States,60.0,462.0,layoff_temporary,2022,November,2022Q4,32
+1759,Lemon,Buenos Aires,Crypto,0.38,2022-11-24,17.0,Series A,Argentina,100.0,263.0,layoff_temporary,2022,November,2022Q4,6
+1776,Kitopi,Dubai,Food,0.1,2022-11-21,804.0,Series C,United States,93.0,930.0,layoff_permanent,2022,November,2022Q4,13
+1781,Nuro,SF Bay Area,Transportation,0.2,2022-11-18,2100.0,Series D,United States,300.0,1500.0,layoff_permanent,2022,November,2022Q4,31
+1782,Synthego,SF Bay Area,Healthcare,0.2,2022-11-18,459.0,Series E,United States,105.0,525.0,layoff_permanent,2022,November,2022Q4,31
+1790,Roku,SF Bay Area,Media,0.07,2022-11-17,208.0,Post-IPO,United States,200.0,2857.0,layoff_permanent,2022,November,2022Q4,31
+1793,Juni,Gothenburg,Finance,0.33,2022-11-17,281.0,Unknown,Sweden,72.0,218.0,layoff_permanent,2022,November,2022Q4,14
+1803,Cisco,SF Bay Area,Infrastructure,0.05,2022-11-16,2.0,Post-IPO,United States,4100.0,82000.0,layoff_permanent,2022,November,2022Q4,31
+1818,Asana,SF Bay Area,Other,0.09,2022-11-15,453.0,Post-IPO,United States,180.0,2000.0,layoff_permanent,2022,November,2022Q4,31
+1837,Illumina,San Diego,Healthcare,0.05,2022-11-14,28.0,Post-IPO,United States,500.0,10000.0,layoff_permanent,2022,November,2022Q4,33
+1842,Intercom,SF Bay Area,Support,0.13,2022-11-14,240.0,Series D,United States,124.0,954.0,layoff_permanent,2022,November,2022Q4,31
+1857,Juul,SF Bay Area,Consumer,0.3,2022-11-10,1500.0,Unknown,United States,400.0,1333.0,layoff_permanent,2022,November,2022Q4,31
+1858,Blend,SF Bay Area,Finance,0.06,2022-11-10,665.0,Post-IPO,United States,100.0,1667.0,layoff_permanent,2022,November,2022Q4,31
+1871,Redfin,Seattle,Real Estate,0.13,2022-11-09,320.0,Post-IPO,United States,862.0,6631.0,layoff_temporary,2022,November,2022Q4,36
+1878,Kabam,SF Bay Area,Consumer,0.07,2022-11-09,244.0,Acquired,United States,35.0,500.0,layoff_permanent,2022,November,2022Q4,31
+1893,Salesforce,SF Bay Area,Sales,0.01,2022-11-07,65.0,Post-IPO,United States,1000.0,100000.0,layoff_permanent,2022,November,2022Q4,31
+1895,Zendesk,SF Bay Area,Support,0.05,2022-11-07,85.0,Acquired,United States,350.0,7000.0,layoff_permanent,2022,November,2022Q4,31
+1906,Exodus,Nebraska City,Crypto,0.22,2022-11-04,60.0,Unknown,United States,59.0,268.0,layoff_temporary,2022,November,2022Q4,24
+1909,Stripe,SF Bay Area,Finance,0.14,2022-11-03,2300.0,Series H,United States,1000.0,7143.0,closure_permanent,2022,November,2022Q4,31
+1922,Opendoor,SF Bay Area,Real Estate,0.18,2022-11-02,1900.0,Post-IPO,United States,550.0,3056.0,layoff_permanent,2022,November,2022Q4,31
+1923,Chime,SF Bay Area,Finance,0.12,2022-11-02,2300.0,Series G,United States,156.0,1300.0,layoff_permanent,2022,November,2022Q4,31
+1935,Upstart,SF Bay Area,Finance,0.07,2022-11-01,144.0,Post-IPO,United States,140.0,2000.0,layoff_permanent,2022,November,2022Q4,31
+1936,Gem,SF Bay Area,Recruiting,0.33,2022-11-01,148.0,Series C,United States,100.0,303.0,layoff_permanent,2022,November,2022Q4,31
+1945,Kry,Stockholm,Healthcare,0.1,2022-10-31,568.0,Series D,Sweden,300.0,3000.0,layoff_permanent,2022,October,2022Q4,38
+1969,Vee,Tel Aviv,HR,0.5,2022-10-25,15.0,Seed,Israel,17.0,34.0,closure_permanent,2022,October,2022Q4,40
+1973,Cerebral,SF Bay Area,Healthcare,0.2,2022-10-24,462.0,Series C,United States,400.0,2000.0,layoff_permanent,2022,October,2022Q4,31
+1985,Zeus Living,SF Bay Area,Real Estate,0.46,2022-10-20,151.0,Series C,United States,64.0,139.0,layoff_permanent,2022,October,2022Q4,31
+1986,Loom,SF Bay Area,Product,0.11,2022-10-20,203.0,Series C,United States,23.0,209.0,closure_permanent,2022,October,2022Q4,31
+1997,Faire,SF Bay Area,Retail,0.07,2022-10-18,1700.0,Series G,United States,84.0,1200.0,layoff_permanent,2022,October,2022Q4,31
+1998,Leafly,Seattle,Retail,0.21,2022-10-18,71.0,Post-IPO,United States,56.0,267.0,down_sizing,2022,October,2022Q4,36
+2019,Brex,SF Bay Area,Finance,0.11,2022-10-11,1500.0,Series D,United States,136.0,1236.0,layoff_permanent,2022,October,2022Q4,31
+2028,Momentive,SF Bay Area,Marketing,0.11,2022-10-10,1100.0,Post-IPO,United States,180.0,1636.0,closure_permanent,2022,October,2022Q4,31
+2033,BioMarin,SF Bay Area,Healthcare,0.04,2022-10-07,585.0,Post-IPO,United States,120.0,3000.0,layoff_permanent,2022,October,2022Q4,31
+2036,Peloton,New York City,Fitness,0.12,2022-10-06,1900.0,Post-IPO,United States,500.0,4167.0,closure_permanent,2022,October,2022Q4,25
+2039,Impossible Foods,SF Bay Area,Food,0.06,2022-10-06,1900.0,Series H,United States,50.0,833.0,layoff_permanent,2022,October,2022Q4,31
+2046,8x8,SF Bay Area,Support,0.09,2022-10-04,253.0,Post-IPO,United States,200.0,2222.0,layoff_permanent,2022,October,2022Q4,31
+2054,Spin,SF Bay Area,Transportation,0.1,2022-09-30,8.0,Acquired,United States,78.0,780.0,down_sizing,2022,September,2022Q3,31
+2065,Divvy Homes,SF Bay Area,Real Estate,0.12,2022-09-27,180.0,Series B,United States,40.0,333.0,layoff_permanent,2022,September,2022Q3,31
+2069,Moss,Berlin,Finance,0.15,2022-09-23,150.0,Series B,Germany,70.0,467.0,layoff_temporary,2022,September,2022Q3,3
+2080,Ada,Toronto,Support,0.16,2022-09-20,190.0,Series C,Canada,78.0,488.0,down_sizing,2022,September,2022Q3,41
+2081,99,Sao Paulo,Transportation,0.02,2022-09-20,244.0,Acquired,Brazil,75.0,3750.0,layoff_permanent,2022,September,2022Q3,35
+2088,Clear,Bengaluru,Finance,0.2,2022-09-16,140.0,Series C,India,190.0,950.0,down_sizing,2022,September,2022Q3,2
+2095,Twilio,SF Bay Area,Other,0.11,2022-09-14,614.0,Post-IPO,United States,800.0,7273.0,down_sizing,2022,September,2022Q3,31
+2130,Intercom,SF Bay Area,Support,0.05,2022-09-07,240.0,Series D,United States,49.0,980.0,layoff_permanent,2022,September,2022Q3,31
+2148,Snap,Los Angeles,Consumer,0.2,2022-08-31,4900.0,Post-IPO,United States,1280.0,6400.0,layoff_permanent,2022,August,2022Q3,19
+2149,GoodRx,Los Angeles,Healthcare,0.16,2022-08-31,910.0,Post-IPO,United States,140.0,875.0,layoff_permanent,2022,August,2022Q3,19
+2170,Argyle,New York City,Finance,0.07,2022-08-26,78.0,Series B,United States,20.0,286.0,layoff_temporary,2022,August,2022Q3,25
+2177,Loop,Washington D.C.,Finance,0.2,2022-08-24,24.0,Series A,United States,15.0,75.0,down_sizing,2022,August,2022Q3,44
+2189,NSO,Tel Aviv,Security,0.14,2022-08-21,1.0,Seed,Israel,100.0,714.0,closure_permanent,2022,August,2022Q3,40
+2192,Wayfair,Boston,Retail,0.05,2022-08-19,1700.0,Post-IPO,United States,870.0,17400.0,layoff_permanent,2022,August,2022Q3,4
+2195,New Relic,SF Bay Area,Infrastructure,0.05,2022-08-18,214.0,Post-IPO,United States,110.0,2200.0,layoff_permanent,2022,August,2022Q3,31
+2196,Wheel,Austin,Healthcare,0.17,2022-08-18,215.0,Series C,United States,35.0,206.0,down_sizing,2022,August,2022Q3,1
+2200,Malwarebytes,SF Bay Area,Security,0.14,2022-08-17,80.0,Series B,United States,125.0,893.0,layoff_permanent,2022,August,2022Q3,31
+2214,Blend,SF Bay Area,Finance,0.12,2022-08-15,665.0,Post-IPO,United States,220.0,1833.0,layoff_permanent,2022,August,2022Q3,31
+2219,Peloton,New York City,Fitness,0.13,2022-08-12,1900.0,Post-IPO,United States,784.0,6031.0,closure_permanent,2022,August,2022Q3,25
+2222,Truepill,SF Bay Area,Healthcare,0.33,2022-08-11,255.0,Series D,United States,175.0,530.0,closure_permanent,2022,August,2022Q3,31
+2236,Nutanix,SF Bay Area,Infrastructure,0.04,2022-08-09,1100.0,Post-IPO,United States,270.0,6750.0,layoff_temporary,2022,August,2022Q3,31
+2251,Groupon,Chicago,Retail,0.15,2022-08-08,1400.0,Post-IPO,United States,500.0,3333.0,layoff_permanent,2022,August,2022Q3,8
+2252,Loggi,Sao Paulo,Logistics,0.15,2022-08-08,507.0,Series F,Brazil,500.0,3333.0,closure_permanent,2022,August,2022Q3,35
+2264,Doma,SF Bay Area,Finance,0.13,2022-08-04,679.0,Post-IPO,United States,250.0,1923.0,layoff_permanent,2022,August,2022Q3,31
+2286,Robinhood,SF Bay Area,Finance,0.23,2022-08-02,5600.0,Post-IPO,United States,713.0,3100.0,layoff_permanent,2022,August,2022Q3,31
+2287,Latch,New York City,Security,0.37,2022-08-02,342.0,Post-IPO,United States,115.0,311.0,down_sizing,2022,August,2022Q3,25
+2291,Outreach,Seattle,Sales,0.05,2022-08-02,489.0,Series G,United States,60.0,1200.0,layoff_permanent,2022,August,2022Q3,36
+2296,Glossier,New York City,Retail,0.08,2022-08-02,266.0,Series E,United States,19.0,238.0,closure_permanent,2022,August,2022Q3,25
+2307,Vee,Tel Aviv,HR,0.32,2022-07-31,15.0,Seed,Israel,16.0,50.0,closure_permanent,2022,July,2022Q3,40
+2320,Metromile,SF Bay Area,Finance,0.2,2022-07-28,510.0,Acquired,United States,60.0,300.0,layoff_permanent,2022,July,2022Q3,31
+2383,Gemini,New York City,Crypto,0.07,2022-07-18,423.0,Unknown,United States,68.0,971.0,closure_permanent,2022,July,2022Q3,25
+2402,Wave,Dakar,Finance,0.15,2022-07-13,292.0,Series A,Senegal,300.0,2000.0,layoff_temporary,2022,July,2022Q3,9
+2403,Tonal,SF Bay Area,Fitness,0.35,2022-07-13,450.0,Series E,United States,262.0,749.0,layoff_permanent,2022,July,2022Q3,31
+2404,Fabric,New York City,Logistics,0.4,2022-07-13,336.0,Series C,United States,120.0,300.0,closure_permanent,2022,July,2022Q3,25
+2431,Argo AI,Pittsburgh,Transportation,0.05,2022-07-07,3600.0,Unknown,United States,150.0,3000.0,closure_permanent,2022,July,2022Q3,28
+2437,Remote,SF Bay Area,HR,0.09,2022-07-06,496.0,Series C,United States,100.0,1111.0,down_sizing,2022,July,2022Q3,31
+2458,Celsius,New York City,Crypto,0.25,2022-07-03,864.0,Series B,United States,150.0,600.0,closure_permanent,2022,July,2022Q3,25
+2467,Enjoy,SF Bay Area,Retail,0.18,2022-06-30,310.0,Post-IPO,United States,400.0,2222.0,closure_permanent,2022,June,2022Q2,31
+2470,Nate,New York City,Retail,0.2,2022-06-30,47.0,Series A,United States,30.0,150.0,layoff_permanent,2022,June,2022Q2,25
+2472,Stream,Boulder,Product,0.12,2022-06-30,58.0,Series B,United States,20.0,167.0,layoff_permanent,2022,June,2022Q2,5
+2474,Abra,SF Bay Area,Crypto,0.05,2022-06-30,106.0,Series C,United States,12.0,240.0,down_sizing,2022,June,2022Q2,31
+2479,Unity,SF Bay Area,Other,0.04,2022-06-29,1300.0,Post-IPO,United States,200.0,5000.0,layoff_permanent,2022,June,2022Q2,31
+2480,Niantic,SF Bay Area,Consumer,0.08,2022-06-29,770.0,Series D,United States,85.0,1062.0,closure_permanent,2022,June,2022Q2,31
+2483,Clutch,Toronto,Transportation,0.22,2022-06-29,153.0,Series B,Canada,76.0,345.0,closure_permanent,2022,June,2022Q2,41
+2505,AppLovin,SF Bay Area,Marketing,0.12,2022-06-27,1600.0,Post-IPO,United States,300.0,2500.0,layoff_permanent,2022,June,2022Q2,31
+2520,Aura,Boston,Security,0.09,2022-06-23,500.0,Series F,United States,70.0,778.0,layoff_temporary,2022,June,2022Q2,4
+2530,MasterClass,SF Bay Area,Education,0.2,2022-06-22,461.0,Series E,United States,120.0,600.0,layoff_permanent,2022,June,2022Q2,31
+2536,Voi,Stockholm,Transportation,0.1,2022-06-22,515.0,Series D,United States,35.0,350.0,closure_permanent,2022,June,2022Q2,38
+2538,Ritual,Toronto,Food,0.16,2022-06-22,134.0,Series C,Canada,23.0,144.0,closure_permanent,2022,June,2022Q2,41
+2543,Community,Los Angeles,Marketing,0.3,2022-06-21,40.0,Unknown,United States,40.0,133.0,layoff_permanent,2022,June,2022Q2,19
+2553,Brighte,Sydney,Energy,0.15,2022-06-20,145.0,Series C,Australia,30.0,200.0,closure_permanent,2022,June,2022Q2,39
+2578,Redfin,Seattle,Real Estate,0.08,2022-06-14,319.0,Post-IPO,United States,470.0,5875.0,layoff_temporary,2022,June,2022Q2,36
+2588,Studio,SF Bay Area,Education,0.4,2022-06-13,50.0,Series B,United States,33.0,82.0,layoff_permanent,2022,June,2022Q2,31
+2596,Albert,Los Angeles,Finance,0.08,2022-06-10,175.0,Series C,United States,20.0,250.0,closure_permanent,2022,June,2022Q2,19
+2603,Convoy,Seattle,Logistics,0.07,2022-06-09,1100.0,Series E,United States,90.0,1286.0,closure_permanent,2022,June,2022Q2,36
+2612,Sonder,SF Bay Area,Travel,0.21,2022-06-08,839.0,Post-IPO,United States,250.0,1190.0,layoff_temporary,2022,June,2022Q2,31
+2614,Truepill,SF Bay Area,Healthcare,0.15,2022-06-08,255.0,Series D,United States,150.0,1000.0,closure_permanent,2022,June,2022Q2,31
+2621,Bird,Los Angeles,Transportation,0.23,2022-06-07,783.0,Post-IPO,United States,138.0,600.0,down_sizing,2022,June,2022Q2,19
+2639,Carbon Health,SF Bay Area,Healthcare,0.08,2022-06-02,522.0,Series D,United States,250.0,3125.0,layoff_permanent,2022,June,2022Q2,31
+2644,Gemini,New York City,Crypto,0.1,2022-06-02,423.0,Unknown,United States,100.0,1000.0,closure_permanent,2022,June,2022Q2,25
+2646,Gather,SF Bay Area,Consumer,0.33,2022-06-02,76.0,Series B,United States,30.0,91.0,closure_temporary,2022,June,2022Q2,31
+2648,IRL,SF Bay Area,Consumer,0.25,2022-06-02,197.0,Series C,United States,25.0,100.0,down_sizing,2022,June,2022Q2,31
+2657,Loom,SF Bay Area,Product,0.14,2022-06-01,203.0,Series C,United States,34.0,243.0,closure_permanent,2022,June,2022Q2,31
+2665,Tomo,Stamford,Finance,0.33,2022-05-31,110.0,Series A,United States,44.0,133.0,closure_permanent,2022,May,2022Q2,37
+2684,Bolt,SF Bay Area,Finance,0.27,2022-05-25,1300.0,Series E,United States,240.0,889.0,closure_permanent,2022,May,2022Q2,31
+2703,Latch,New York City,Security,0.28,2022-05-20,342.0,Post-IPO,United States,130.0,464.0,down_sizing,2022,May,2022Q2,25
+2709,Kry,Stockholm,Healthcare,0.1,2022-05-17,568.0,Series D,Sweden,100.0,1000.0,layoff_permanent,2022,May,2022Q2,38
+2722,Doma,SF Bay Area,Finance,0.15,2022-05-10,679.0,Post-IPO,United States,310.0,2067.0,layoff_permanent,2022,May,2022Q2,31
+2724,Latch,New York City,Security,0.06,2022-05-10,342.0,Post-IPO,United States,30.0,500.0,down_sizing,2022,May,2022Q2,25
+2727,Reef,Miami,Transportation,0.05,2022-05-06,1500.0,Unknown,United States,750.0,15000.0,down_sizing,2022,May,2022Q2,20
+2746,Robinhood,SF Bay Area,Finance,0.09,2022-04-26,5600.0,Post-IPO,United States,340.0,3778.0,layoff_permanent,2022,April,2022Q2,31
+2753,Blend,SF Bay Area,Finance,0.1,2022-04-19,665.0,Post-IPO,United States,200.0,2000.0,layoff_permanent,2022,April,2022Q2,31
+2769,BitMEX,Non-U.S.,Crypto,0.25,2022-04-04,0.0,Seed,Seychelles,75.0,300.0,closure_permanent,2022,April,2022Q2,26
+2788,Wish,SF Bay Area,Retail,0.15,2022-03-01,1600.0,Post-IPO,United States,190.0,1267.0,closure_permanent,2022,March,2022Q1,31
+2792,Virgin Hyperloop,Los Angeles,Transportation,0.5,2022-02-21,368.0,Unknown,United States,111.0,222.0,down_sizing,2022,February,2022Q1,19
+2798,Peloton,New York City,Fitness,0.2,2022-02-08,1900.0,Post-IPO,United States,2800.0,14000.0,closure_permanent,2022,February,2022Q1,25
+2802,Glossier,New York City,Consumer,0.33,2022-01-26,266.0,Series E,United States,80.0,242.0,closure_permanent,2022,January,2022Q1,25
+2809,BitTitan,Seattle,Data,0.27,2021-11-18,46.0,Acquired,United States,70.0,259.0,down_sizing,2021,November,2021Q4,36
+2827,New Relic,SF Bay Area,Infrastructure,0.07,2021-04-06,214.5,Post-IPO,United States,160.0,2286.0,layoff_permanent,2021,April,2021Q2,31
+2843,Postmates,SF Bay Area,Food,0.15,2021-01-23,763.0,Acquired,United States,180.0,1200.0,layoff_permanent,2021,January,2021Q1,31
+2846,Dropbox,SF Bay Area,Other,0.15,2021-01-13,1700.0,Post-IPO,United States,315.0,2100.0,layoff_permanent,2021,January,2021Q1,31
+2866,Knotel,New York City,Real Estate,0.08,2020-10-29,560.0,Series C,United States,20.0,250.0,layoff_permanent,2020,October,2020Q4,25
+2890,Salesforce,SF Bay Area,Sales,0.0185,2020-08-26,65.4,Post-IPO,United States,1000.0,54054.0,layoff_permanent,2020,August,2020Q3,31
+2904,Glossier,New York City,Retail,0.38,2020-08-07,186.4,Series D,United States,150.0,395.0,closure_permanent,2020,August,2020Q3,25
+2916,Checkr,SF Bay Area,HR,0.12,2020-07-23,309.0,Series D,United States,64.0,533.0,layoff_permanent,2020,July,2020Q3,31
+2918,LinkedIn,SF Bay Area,Recruiting,0.06,2020-07-21,154.0,Acquired,United States,960.0,16000.0,layoff_permanent,2020,July,2020Q3,31
+2937,Katerra,SF Bay Area,Construction,0.07,2020-06-29,1300.0,Series E,United States,400.0,5714.0,changed_business,2020,June,2020Q2,31
+2951,Intuit,SF Bay Area,Finance,0.07,2020-06-22,18.0,Post-IPO,United States,715.0,10214.0,closure_permanent,2020,June,2020Q2,31
+2954,Navi,Bengaluru,Finance,0.25,2020-06-17,582.0,Private Equity,India,40.0,160.0,down_sizing,2020,June,2020Q2,2
+2957,Splunk,SF Bay Area,Data,0.01,2020-06-16,40.0,Post-IPO,United States,70.0,7000.0,layoff_permanent,2020,June,2020Q2,31
+2972,Monzo,London,Finance,0.08,2020-06-03,324.0,Series F,United Kingdom,120.0,1500.0,closure_permanent,2020,June,2020Q2,18
+2977,Rivian,Detroit,Transportation,0.02,2020-06-02,3100.0,Private Equity,United States,40.0,2000.0,layoff_permanent,2020,June,2020Q2,12
+2984,Brex,SF Bay Area,Finance,0.15,2020-05-29,732.0,Series C,United States,62.0,413.0,layoff_permanent,2020,May,2020Q2,31
+2987,TrueCar,Los Angeles,Transportation,0.3,2020-05-28,340.0,Post-IPO,United States,219.0,730.0,layoff_permanent,2020,May,2020Q2,19
+3002,Ola,Bengaluru,Transportation,0.35,2020-05-20,3800.0,Series J,India,1400.0,4000.0,closure_permanent,2020,May,2020Q2,2
+3003,Samsara,SF Bay Area,Logistics,0.18,2020-05-20,530.0,Series F,United States,300.0,1667.0,layoff_permanent,2020,May,2020Q2,31
+3007,Intercom,SF Bay Area,Support,0.06,2020-05-20,240.0,Series D,United States,39.0,650.0,layoff_permanent,2020,May,2020Q2,31
+3025,Cruise,SF Bay Area,Transportation,0.08,2020-05-14,5300.0,Acquired,United States,150.0,1875.0,layoff_permanent,2020,May,2020Q2,31
+3035,Kickstarter,New York City,Finance,0.18,2020-05-13,10.0,Unknown,United States,25.0,139.0,layoff_permanent,2020,May,2020Q2,25
+3042,Zeus Living,SF Bay Area,Real Estate,0.5,2020-05-12,79.0,Series B,United States,73.0,146.0,layoff_permanent,2020,May,2020Q2,31
+3048,Revolut,London,Finance,0.03,2020-05-11,837.0,Series D,United Kingdom,60.0,2000.0,layoff_temporary,2020,May,2020Q2,18
+3052,Glassdoor,SF Bay Area,Recruiting,0.3,2020-05-07,204.0,Acquired,United States,300.0,1000.0,layoff_permanent,2020,May,2020Q2,31
+3062,Segment,SF Bay Area,Data,0.1,2020-05-06,283.0,Series D,United States,50.0,500.0,closure_permanent,2020,May,2020Q2,31
+3065,Airbnb,SF Bay Area,Travel,0.25,2020-05-05,5400.0,Private Equity,United States,1900.0,7600.0,closure_temporary,2020,May,2020Q2,31
+3066,Juul,SF Bay Area,Consumer,0.3,2020-05-05,1500.0,Unknown,United States,900.0,3000.0,layoff_permanent,2020,May,2020Q2,31
+3104,Lime,SF Bay Area,Transportation,0.13,2020-04-29,765.0,Series D,United States,80.0,615.0,closure_permanent,2020,April,2020Q2,31
+3107,TripAdvisor,Boston,Travel,0.25,2020-04-28,3.0,Post-IPO,United States,900.0,3600.0,layoff_permanent,2020,April,2020Q2,4
+3111,OpenX,Los Angeles,Marketing,0.15,2020-04-28,70.0,Unknown,United States,35.0,233.0,layoff_permanent,2020,April,2020Q2,19
+3116,Automation Anywhere,SF Bay Area,Other,0.1,2020-04-27,840.0,Series B,United States,260.0,2600.0,layoff_permanent,2020,April,2020Q2,31
+3142,Ike,SF Bay Area,Transportation,0.14,2020-04-22,52.0,Series A,United States,10.0,71.0,closure_permanent,2020,April,2020Q2,31
+3160,GumGum,Los Angeles,Marketing,0.25,2020-04-20,58.0,Series D,United States,90.0,360.0,layoff_permanent,2020,April,2020Q2,19
+3165,Forward,SF Bay Area,Healthcare,0.03,2020-04-20,100.0,Series C,United States,10.0,333.0,closure_permanent,2020,April,2020Q2,31
+3170,Greenhouse,New York City,Recruiting,0.28,2020-04-17,110.0,Series D,United States,120.0,429.0,closure_permanent,2020,April,2020Q2,25
+3177,Tor,Boston,Security,0.37,2020-04-17,1.0,Unknown,United States,13.0,35.0,closure_permanent,2020,April,2020Q2,4
+3191,Opendoor,SF Bay Area,Real Estate,0.35,2020-04-15,1500.0,Series E,United States,600.0,1714.0,layoff_permanent,2020,April,2020Q2,31
+3192,GoPro,SF Bay Area,Consumer,0.2,2020-04-15,288.0,Post-IPO,United States,200.0,1000.0,layoff_permanent,2020,April,2020Q2,31
+3194,Zume,SF Bay Area,Food,0.67,2020-04-15,423.0,Unknown,United States,200.0,299.0,closure_permanent,2020,April,2020Q2,31
+3195,Carta,SF Bay Area,Finance,0.16,2020-04-15,447.0,Series E,United States,161.0,1006.0,layoff_permanent,2020,April,2020Q2,31
+3204,The RealReal,SF Bay Area,Retail,0.1,2020-04-14,358.0,Post-IPO,United States,235.0,2350.0,closure_permanent,2020,April,2020Q2,31
+3206,Envoy,SF Bay Area,HR,0.3,2020-04-14,59.0,Series B,United States,58.0,193.0,layoff_temporary,2020,April,2020Q2,31
+3213,Groupon,Chicago,Retail,0.44,2020-04-13,1400.0,Post-IPO,United States,2800.0,6364.0,layoff_permanent,2020,April,2020Q2,8
+3214,Zoox,SF Bay Area,Transportation,0.1,2020-04-13,955.0,Series B,United States,100.0,1000.0,layoff_permanent,2020,April,2020Q2,31
+3227,Yelp,SF Bay Area,Consumer,0.17,2020-04-09,56.0,Post-IPO,United States,1000.0,5882.0,layoff_temporary,2020,April,2020Q2,31
+3233,Clinc,Ann Arbor,Support,0.32,2020-04-09,59.0,Series B,United States,40.0,125.0,closure_permanent,2020,April,2020Q2,0
+3244,Unison,SF Bay Area,Finance,0.45,2020-04-08,40.0,Series B,United States,89.0,198.0,closure_permanent,2020,April,2020Q2,31
+3245,Lever,SF Bay Area,Recruiting,0.4,2020-04-08,72.0,Series C,United States,86.0,215.0,layoff_temporary,2020,April,2020Q2,31
+3247,Button,New York City,Marketing,0.35,2020-04-08,64.0,Series C,United States,48.0,137.0,layoff_temporary,2020,April,2020Q2,25
+3262,Toast,Boston,Food,0.5,2020-04-07,902.0,Series F,United States,1300.0,2600.0,down_sizing,2020,April,2020Q2,4
+3265,Redfin,Seattle,Real Estate,0.07,2020-04-07,319.0,Post-IPO,United States,236.0,3371.0,layoff_temporary,2020,April,2020Q2,36
+3270,Away,New York City,Retail,0.1,2020-04-07,181.0,Series D,United States,60.0,600.0,down_sizing,2020,April,2020Q2,25
+3277,Metromile,SF Bay Area,Finance,0.33,2020-04-06,293.0,Series E,United States,100.0,303.0,layoff_permanent,2020,April,2020Q2,31
+3289,Astra,SF Bay Area,Aerospace,0.25,2020-04-05,100.0,Unknown,United States,40.0,160.0,layoff_permanent,2020,April,2020Q2,31
+3294,Minted,SF Bay Area,Retail,0.37,2020-04-03,297.0,Series E,United States,147.0,397.0,closure_permanent,2020,April,2020Q2,31
+3317,Katerra,SF Bay Area,Construction,0.03,2020-04-02,1200.0,Series D,United States,240.0,8000.0,changed_business,2020,April,2020Q2,31
+3318,Ritual,Toronto,Food,0.54,2020-04-02,112.0,Series C,Canada,196.0,363.0,closure_permanent,2020,April,2020Q2,41
+3319,ClassPass,New York City,Fitness,0.22,2020-04-02,549.0,Series E,United States,154.0,700.0,layoff_permanent,2020,April,2020Q2,25
+3348,Earnin,SF Bay Area,Finance,0.2,2020-04-01,190.0,Series C,United States,50.0,250.0,layoff_permanent,2020,April,2020Q2,31
+3366,Rover,Seattle,Consumer,0.41,2020-03-31,310.0,Series G,United States,194.0,473.0,layoff_temporary,2020,March,2020Q1,36
+3380,Thumbtack,SF Bay Area,Consumer,0.3,2020-03-30,423.0,Series F,United States,250.0,833.0,layoff_permanent,2020,March,2020Q1,31
+3384,PeerStreet,Los Angeles,Finance,0.3,2020-03-30,110.0,Series C,United States,51.0,170.0,down_sizing,2020,March,2020Q1,19
+3393,ZipRecruiter,Los Angeles,Recruiting,0.39,2020-03-29,219.0,Series B,United States,400.0,1026.0,layoff_temporary,2020,March,2020Q1,19
+3400,Bird,Los Angeles,Transportation,0.3,2020-03-27,623.0,Series D,United States,406.0,1353.0,down_sizing,2020,March,2020Q1,19
+3406,Knotel,New York City,Real Estate,0.3,2020-03-27,560.0,Series C,United States,127.0,423.0,layoff_permanent,2020,March,2020Q1,25
+3412,Bench,Vancouver,Finance,0.1,2020-03-27,49.0,Series B,Canada,47.0,470.0,closure_permanent,2020,March,2020Q1,42
+3431,TripActions,SF Bay Area,Travel,0.25,2020-03-25,981.0,Series D,United States,300.0,1200.0,layoff_permanent,2020,March,2020Q1,31
+3438,Overtime,New York City,Media,0.23,2020-03-25,35.0,Series B,United States,30.0,130.0,closure_temporary,2020,March,2020Q1,25
+3439,Jama,Portland,Product,0.05,2020-03-25,233.0,Unknown,United States,12.0,240.0,layoff_temporary,2020,March,2020Q1,29
+3445,Sonder,SF Bay Area,Travel,0.33,2020-03-24,359.0,Series D,United States,400.0,1212.0,layoff_temporary,2020,March,2020Q1,31
+3448,Zeus Living,SF Bay Area,Real Estate,0.3,2020-03-24,79.0,Series B,United States,80.0,267.0,layoff_permanent,2020,March,2020Q1,31
+3455,Leafly,Seattle,Retail,0.5,2020-03-23,2.0,Acquired,United States,91.0,182.0,down_sizing,2020,March,2020Q1,36
+3456,The Guild,Austin,Travel,0.22,2020-03-23,36.0,Series B,United States,38.0,173.0,layoff_temporary,2020,March,2020Q1,1
+3481,HopSkipDrive,Los Angeles,Transportation,0.1,2020-03-13,45.0,Unknown,United States,8.0,80.0,layoff_permanent,2020,March,2020Q1,19

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Linear Regression Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Linear Regression Prediction</h1>
+        <form action="{{ url_for('predict_linear_regression') }}" method="post">
+            <!-- Include your input fields here -->
+            <input type="number" name="feature1" placeholder="Enter feature 1" required>
+            <!-- Add more input fields as needed -->
+            <button type="submit">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
